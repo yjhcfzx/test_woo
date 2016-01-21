@@ -1,0 +1,34 @@
+* 1.0.6 - 15/12/2015
+====================
+- Fixed: issue with selecting variations on products (ex: colors or sizes)
+
+
+* 1.0.5 - 26/11/2015
+====================
+- Added: review button on customizer
+- Improve: theme description
+
+
+* 1.0.4 - 14/11/2015
+====================
+- Fixed: minor error when WooCommerce is not active
+
+
+* 1.0.3 - 13/11/2015
+====================
+- Fixed: Translatable strings on footer
+
+
+* 1.0.2 - 30/09/2015
+====================
+- Fixed: CSS on WooCommerce products archive
+
+
+* 1.0.1 - 30/09/2015
+====================
+- Complete Theme Update
+
+
+* 1.0.0 - 09/09/2015
+====================
+- Released
